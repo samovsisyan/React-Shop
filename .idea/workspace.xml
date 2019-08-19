@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1affcc29-69d1-4c52-8f6e-eb823411daac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1OPtsJkuzGfIruvazWc0eSJl3uG" />
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/ars-sam/api_react" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HeaderCart.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/HeaderCart.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.HeaderCart.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1affcc29-69d1-4c52-8f6e-eb823411daac" name="Default Changelist" comment="" />
+      <created>1550339262496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550339262496</updated>
+      <workItem from="1550339270032" duration="358000" />
+      <workItem from="1550392848091" duration="5144000" />
+      <workItem from="1550400555302" duration="4234000" />
+      <workItem from="1550405859767" duration="204000" />
+      <workItem from="1550406581365" duration="4785000" />
+      <workItem from="1550413008299" duration="5066000" />
+      <workItem from="1550476366887" duration="1156000" />
+      <workItem from="1550477972124" duration="9421000" />
+      <workItem from="1550570107667" duration="2484000" />
+      <workItem from="1550577369824" duration="1833000" />
+      <workItem from="1550588004952" duration="4105000" />
+      <workItem from="1550596592057" duration="2891000" />
+      <workItem from="1550646294604" duration="5419000" />
+      <workItem from="1550652697624" duration="3128000" />
+      <workItem from="1550656489492" duration="3122000" />
+      <workItem from="1550734890868" duration="50000" />
+      <workItem from="1551105914536" duration="413000" />
+      <workItem from="1551648331599" duration="5646000" />
+      <workItem from="1551708798827" duration="596000" />
+      <workItem from="1557625239489" duration="922000" />
+      <workItem from="1557656147504" duration="599000" />
+      <workItem from="1557825803782" duration="5575000" />
+      <workItem from="1558092057994" duration="597000" />
+      <workItem from="1558099249940" duration="3195000" />
+      <workItem from="1558107208652" duration="4000" />
+      <workItem from="1558120918194" duration="226000" />
+      <workItem from="1558178256453" duration="1519000" />
+      <workItem from="1560090101009" duration="1094000" />
+      <workItem from="1560095137706" duration="689000" />
+      <workItem from="1560683566788" duration="641000" />
+      <workItem from="1561401712947" duration="24000" />
+      <workItem from="1563891267600" duration="1879000" />
+      <workItem from="1563994381973" duration="88000" />
+      <workItem from="1565356239806" duration="4199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
